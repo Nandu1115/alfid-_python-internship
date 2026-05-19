@@ -1,2 +1,2 @@
-# alfid-_python-internship
+# alfido-_python-internship
 Python Internship Tasks - Alfido Tech
