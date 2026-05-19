@@ -27,8 +27,8 @@ Additional Python Application
 ⏳ Yet to Start
 🛠️ Technologies Used
 Python 3
-File Handling
-Command Prompt / Terminal
-GitHub for project hosting
+.File Handling
+.Command Prompt / Terminal
+.GitHub for project hosting
 🔗 Connect With Me
 LinkedIn: https://www.linkedin.com/in/p-lakshminandu-9216a4358
