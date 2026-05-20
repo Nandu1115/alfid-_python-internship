@@ -73,6 +73,6 @@ These tasks focus on Python fundamentals, automation, API handling, data analysi
 
 ## 🔗 Connect With Me
 
-LinkedIn: *(Add your LinkedIn URL here)*
+LinkedIn: https://www.linkedin.com/in/p-lakshminandu-9216a4358
 
 ---
