@@ -1,34 +1,78 @@
-🐍 Python Developer Internship – Alfido Tech
-This repository contains the work completed as part of my Python Developer Internship at Alfido Tech.
-The internship focuses on practical implementation of Python concepts through multiple tasks.
-⚙️ Project Status: Work in Progress (WIP)
-👩‍💻 Intern Information
-Name: Panyam Lakshmi Nandu
-Role: Python Developer Intern
-Organization: Alfido Tech
-Internship Duration: 06 May 2026 – 12 May 2026
-📋 Internship Tasks
-During this internship, I was assigned four tasks.
-I am required to complete any three tasks.
-Task No
-Title
-Status
-Task 1
-Python File Handling Program
-✅ Completed
-Task 2
-Student Data Management using Python
-🔄 In Progress
-Task 3
-Core Python Logic Building
-🔄 In Progress
-Task 4
-Additional Python Application
-⏳ Yet to Start
-🛠️ Technologies Used
-Python 3
-.File Handling
-.Command Prompt / Terminal
-.GitHub for project hosting
-🔗 Connect With Me
-LinkedIn: https://www.linkedin.com/in/p-lakshminandu-9216a4358
+# 🚀 Alfido Tech Python Internship
+
+## 👩‍💻 Name: Panyam Lakshmi Nandu
+## 🎯 Role: Python Developer Intern
+## 🏢 Company: Alfido Tech
+
+---
+
+## 📌 About This Repository
+
+This repository contains all the tasks, projects, and learning progress completed during my Python Developer Internship at Alfido Tech.  
+These tasks focus on Python fundamentals, automation, API handling, data analysis, and basic web development.
+
+---
+
+## 🗓️ Internship Duration
+
+**6 May 2026 – 45 Days**
+
+---
+
+## 🎯 Internship Objectives
+
+- Learn Python scripting & automation
+- Work with files, APIs, and JSON data
+- Perform data analysis using Pandas
+- Understand Flask backend basics
+- Gain real-world project experience
+
+---
+
+## 📚 Tasks Completed / In Progress
+
+### ✅ Task 1: Python File Handling & Automation
+- Read and write files (txt, csv)
+- Automate file operations (rename, move, delete)
+- Implement exception handling using try-except
+
+### ✅ Task 2: API Integration & JSON Handling
+- Fetch data using Requests library
+- Parse and process JSON responses
+- Handle API errors and filtering logic
+
+### ✅ Task 3: Data Analysis with Pandas
+- Load and inspect CSV datasets
+- Clean missing or incorrect data
+- Perform filtering, grouping, and aggregation
+- Generate insights from data
+
+### 🔄 Task 4: Flask Mini Project (Optional)
+- Build a simple Flask web application
+- Implement routing, templates, and forms
+- Basic CRUD operations
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Python 3
+- Pandas
+- Flask
+- Requests API
+- JSON
+- Git & GitHub
+
+---
+
+## 📈 Status
+
+🚧 **Work in Progress** – Tasks and updates will be added regularly.
+
+---
+
+## 🔗 Connect With Me
+
+LinkedIn: *(Add your LinkedIn URL here)*
+
+---
